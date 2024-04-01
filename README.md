@@ -1,4 +1,4 @@
-[# INBRE-EPSCoR-RET](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science)
+[# INBRE-EPSCoR-RET](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science) INBRE-EPSCoR-RET (2 students)
 
 https://github.com/ethaharikanaidu
 This project in collaboration with Harika Baidu, teacher at Bamberg Ehrhardt High School (Summer 2022). 
