@@ -1,4 +1,5 @@
-[# INBRE-EPSCoR-RET](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science) INBRE-EPSCoR-RET (2 students)
+[# INBRE-EPSCoR-RET, South Carolina Established Program for Stem Cooperative Research (SC EPSCoR)
+National Science Foundation ](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science) INBRE-EPSCoR-RET (2 students)
 [R: edgeR, hgu133plus2.db, tidyverse]
 https://github.com/ethaharikanaidu
 This project in collaboration with Harika Baidu, teacher at Bamberg Ehrhardt High School (Summer 2022). 
