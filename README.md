@@ -11,3 +11,5 @@ Machine learning applications for studying check-point genes expressed in ten di
 
 Machine learning applications for studying check-point genes expressed in ten different human cancer types.
 Machine learning applications for studying check-point genes expressed in human Ovarian cancers.
+Claflin University, Orangeburg, South Carolina, USA 
+https://www.claflin.edu/
