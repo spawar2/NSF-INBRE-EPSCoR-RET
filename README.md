@@ -7,7 +7,7 @@ Machine learning applications for studying check-point genes expressed in ten di
 <img width="256" alt="Epscor" src="https://github.com/spawar2/NSF-INBRE-EPSCoR-RET/assets/25118302/d5a4466d-5b43-4b31-89af-894a23818533">
 <img width="395" alt="NSF" src="https://github.com/spawar2/NSF-INBRE-EPSCoR-RET/assets/25118302/fd527ee5-5d59-4e32-a967-aa00e5ac9293">
 
-[SC INRE EPSCoR Research Experience for Teachers (RET) program (2022) ($4,000, direct, 100%)](https://www.furman.edu/integrative-research/education-outreach/research-experience-for-teachers-program/). Award utilized for configuring computing infrastructure (Lenovo ThinkSystem SR250 rack servers) in the Department of Computer Science for machine learning applications. Github Role: PI.
+[SC INRE EPSCoR Research Experience for Teachers (RET) program (2022) ($4,000, direct, 100%)](https://www.furman.edu/integrative-research/education-outreach/research-experience-for-teachers-program/). Award utilized for configuring computing infrastructure (Lenovo ThinkSystem SR250 rack servers) in the Department of Computer Science for machine learning applications. Github, Role: PI.
 
 Machine learning applications for studying check-point genes expressed in ten different human cancer types.
 Machine learning applications for studying check-point genes expressed in human Ovarian cancers.
