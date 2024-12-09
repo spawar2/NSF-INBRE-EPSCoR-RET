@@ -1,4 +1,4 @@
-[# Institutional Development Award (IDeA), Networks of Biomedical Research Excellence (INBRE), Research Education of Teachers INBRE-EPSCoR-RET, South Carolina Established Program for Stem Cooperative Research (SC EPSCoR). December, 9, 2024.
+[# Institutional Development Award (IDeA), Networks of Biomedical Research Excellence (INBRE), Research Education of Teachers INBRE-EPSCoR-RET, South Carolina Established Program for Stem Cooperative Research (SC EPSCoR). Date created/updated: December, 9, 2024.
 National Science Foundation ](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science) INBRE-EPSCoR-RET (2 students).
 [R: edgeR, hgu133plus2.db, tidyverse].
 https://github.com/ethaharikanaidu
