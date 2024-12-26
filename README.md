@@ -8,7 +8,8 @@ Machine learning applications for studying check-point genes expressed in ten di
 <img width="395" alt="NSF" src="https://github.com/spawar2/NSF-INBRE-EPSCoR-RET/assets/25118302/fd527ee5-5d59-4e32-a967-aa00e5ac9293">
 [R: ggpubr, tidyverse, datarium, dplyr].
 [SC INRE EPSCoR Research Experience for Teachers (RET), program (2022) ($4,000, direct, 100%)](https://www.furman.edu/integrative-research/education-outreach/research-experience-for-teachers-program/). Award utilized for configuring computing infrastructure (Lenovo ThinkSystem SR250 rack servers) in the Department of Computer Science for machine learning applications. Github, Role: PI.
-(Direct costs, Effort=100%).
+(Direct costs, Effort=100%). (May 1, 2022- August 31, 2022).
+Award (Start date- End date).
 Machine learning applications for studying check-point genes expressed in ten different human cancer types.
 Machine learning applications for studying check-point genes expressed in human Ovarian cancers.
 Claflin University, Orangeburg, South Carolina, United States of America (USA). 
